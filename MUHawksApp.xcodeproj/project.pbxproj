@@ -1,0 +1,443 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1E471655290AC84900AE9AD0 /* MUPhotosModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E471654290AC84900AE9AD0 /* MUPhotosModel.swift */; };
+		1E47165A290AC97900AE9AD0 /* MUPhotosCollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E471659290AC97900AE9AD0 /* MUPhotosCollectionViewController.swift */; };
+		1E47165C290AC9BE00AE9AD0 /* MUPhotoCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E47165B290AC9BE00AE9AD0 /* MUPhotoCollectionViewCell.swift */; };
+		1E47166A290ACD2700AE9AD0 /* MUPhotoDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E471669290ACD2700AE9AD0 /* MUPhotoDetailViewController.swift */; };
+		1E516FA22908EEDB009109DB /* MUAthleticsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E516FA12908EEDB009109DB /* MUAthleticsTableViewController.swift */; };
+		1E516FA42908EFD5009109DB /* MUSportWebsiteViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E516FA32908EFD5009109DB /* MUSportWebsiteViewController.swift */; };
+		1E516FA62908F49B009109DB /* MUProgramsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E516FA52908F49B009109DB /* MUProgramsTableViewController.swift */; };
+		1E55A586290C6F7F00BFEF89 /* MUSportWebsitesTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E55A585290C6F7F00BFEF89 /* MUSportWebsitesTableViewController.swift */; };
+		1E7AE0BC290B2DD3002C40DC /* photos in Resources */ = {isa = PBXBuildFile; fileRef = 1E7AE0BB290B2DD3002C40DC /* photos */; };
+		1E925B5A2906EA6F006997ED /* MUAcademicsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E925B592906EA6F006997ED /* MUAcademicsTableViewController.swift */; };
+		1E9D2E20290A13450088478F /* MUSportsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E9D2E1F290A13450088478F /* MUSportsTableViewController.swift */; };
+		1EC326402908E4100083BEEA /* MUMapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EC3263F2908E4100083BEEA /* MUMapViewController.swift */; };
+		1EC420192906DFEC00B77D7B /* MUSchoolsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EC420182906DFEC00B77D7B /* MUSchoolsTableViewController.swift */; };
+		1EC7A00C2906F85100C3888A /* MUDepartmentsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EC7A00B2906F85100C3888A /* MUDepartmentsTableViewController.swift */; };
+		1EC7A0102906FB2F00C3888A /* MUDepartmentDegreesTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EC7A00F2906FB2F00C3888A /* MUDepartmentDegreesTableViewController.swift */; };
+		1EDD8638290C2C690087E4AA /* MUAthleticsTicketsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EDD8637290C2C690087E4AA /* MUAthleticsTicketsViewController.swift */; };
+		1EE93357290B5D7F00B8A1CC /* MUEventTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EE93356290B5D7F00B8A1CC /* MUEventTableViewCell.swift */; };
+		1EEDC945290790850067C6D9 /* MUDegreeDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EEDC944290790850067C6D9 /* MUDegreeDetailViewController.swift */; };
+		F169B057290427A70001537D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F169B056290427A70001537D /* AppDelegate.swift */; };
+		F169B059290427A70001537D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F169B058290427A70001537D /* SceneDelegate.swift */; };
+		F169B05B290427A70001537D /* MUHawksViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F169B05A290427A70001537D /* MUHawksViewController.swift */; };
+		F169B05E290427A70001537D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F169B05C290427A70001537D /* Main.storyboard */; };
+		F169B060290427A70001537D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F169B05F290427A70001537D /* Assets.xcassets */; };
+		F169B063290427A70001537D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F169B061290427A70001537D /* LaunchScreen.storyboard */; };
+		F169B06C290427C20001537D /* MonmouthInfo.json in Resources */ = {isa = PBXBuildFile; fileRef = F169B06A290427C20001537D /* MonmouthInfo.json */; };
+		F169B06D290427C20001537D /* MUModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F169B06B290427C20001537D /* MUModel.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1E471654290AC84900AE9AD0 /* MUPhotosModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MUPhotosModel.swift; sourceTree = "<group>"; };
+		1E471659290AC97900AE9AD0 /* MUPhotosCollectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MUPhotosCollectionViewController.swift; sourceTree = "<group>"; };
+		1E47165B290AC9BE00AE9AD0 /* MUPhotoCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MUPhotoCollectionViewCell.swift; sourceTree = "<group>"; };
+		1E471669290ACD2700AE9AD0 /* MUPhotoDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MUPhotoDetailViewController.swift; sourceTree = "<group>"; };
+		1E516FA12908EEDB009109DB /* MUAthleticsTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MUAthleticsTableViewController.swift; sourceTree = "<group>"; };
+		1E516FA32908EFD5009109DB /* MUSportWebsiteViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MUSportWebsiteViewController.swift; sourceTree = "<group>"; };
+		1E516FA52908F49B009109DB /* MUProgramsTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MUProgramsTableViewController.swift; sourceTree = "<group>"; };
+		1E55A585290C6F7F00BFEF89 /* MUSportWebsitesTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MUSportWebsitesTableViewController.swift; sourceTree = "<group>"; };
+		1E7AE0BB290B2DD3002C40DC /* photos */ = {isa = PBXFileReference; lastKnownFileType = folder; path = photos; sourceTree = "<group>"; };
+		1E925B592906EA6F006997ED /* MUAcademicsTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MUAcademicsTableViewController.swift; sourceTree = "<group>"; };
+		1E9D2E1F290A13450088478F /* MUSportsTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MUSportsTableViewController.swift; sourceTree = "<group>"; };
+		1EC3263F2908E4100083BEEA /* MUMapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MUMapViewController.swift; sourceTree = "<group>"; };
+		1EC420182906DFEC00B77D7B /* MUSchoolsTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MUSchoolsTableViewController.swift; sourceTree = "<group>"; };
+		1EC7A00B2906F85100C3888A /* MUDepartmentsTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MUDepartmentsTableViewController.swift; sourceTree = "<group>"; };
+		1EC7A00F2906FB2F00C3888A /* MUDepartmentDegreesTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MUDepartmentDegreesTableViewController.swift; sourceTree = "<group>"; };
+		1EDD8637290C2C690087E4AA /* MUAthleticsTicketsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MUAthleticsTicketsViewController.swift; sourceTree = "<group>"; };
+		1EE93356290B5D7F00B8A1CC /* MUEventTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MUEventTableViewCell.swift; sourceTree = "<group>"; };
+		1EEDC944290790850067C6D9 /* MUDegreeDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MUDegreeDetailViewController.swift; sourceTree = "<group>"; };
+		F169B053290427A70001537D /* MUHawksApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MUHawksApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F169B056290427A70001537D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		F169B058290427A70001537D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		F169B05A290427A70001537D /* MUHawksViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MUHawksViewController.swift; sourceTree = "<group>"; };
+		F169B05D290427A70001537D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		F169B05F290427A70001537D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		F169B062290427A70001537D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		F169B064290427A70001537D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F169B06A290427C20001537D /* MonmouthInfo.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = MonmouthInfo.json; sourceTree = "<group>"; };
+		F169B06B290427C20001537D /* MUModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MUModel.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		F169B050290427A70001537D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		F169B04A290427A70001537D = {
+			isa = PBXGroup;
+			children = (
+				F169B055290427A70001537D /* MUHawksApp */,
+				F169B054290427A70001537D /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		F169B054290427A70001537D /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				F169B053290427A70001537D /* MUHawksApp.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		F169B055290427A70001537D /* MUHawksApp */ = {
+			isa = PBXGroup;
+			children = (
+				F169B056290427A70001537D /* AppDelegate.swift */,
+				F169B058290427A70001537D /* SceneDelegate.swift */,
+				F169B05C290427A70001537D /* Main.storyboard */,
+				F169B06A290427C20001537D /* MonmouthInfo.json */,
+				F169B06B290427C20001537D /* MUModel.swift */,
+				1E471654290AC84900AE9AD0 /* MUPhotosModel.swift */,
+				F169B05A290427A70001537D /* MUHawksViewController.swift */,
+				1EE93356290B5D7F00B8A1CC /* MUEventTableViewCell.swift */,
+				1E925B592906EA6F006997ED /* MUAcademicsTableViewController.swift */,
+				1E516FA52908F49B009109DB /* MUProgramsTableViewController.swift */,
+				1EC420182906DFEC00B77D7B /* MUSchoolsTableViewController.swift */,
+				1EC7A00B2906F85100C3888A /* MUDepartmentsTableViewController.swift */,
+				1EC7A00F2906FB2F00C3888A /* MUDepartmentDegreesTableViewController.swift */,
+				1EEDC944290790850067C6D9 /* MUDegreeDetailViewController.swift */,
+				1EC3263F2908E4100083BEEA /* MUMapViewController.swift */,
+				1E516FA12908EEDB009109DB /* MUAthleticsTableViewController.swift */,
+				1E9D2E1F290A13450088478F /* MUSportsTableViewController.swift */,
+				1E55A585290C6F7F00BFEF89 /* MUSportWebsitesTableViewController.swift */,
+				1E516FA32908EFD5009109DB /* MUSportWebsiteViewController.swift */,
+				1EDD8637290C2C690087E4AA /* MUAthleticsTicketsViewController.swift */,
+				1E471659290AC97900AE9AD0 /* MUPhotosCollectionViewController.swift */,
+				1E47165B290AC9BE00AE9AD0 /* MUPhotoCollectionViewCell.swift */,
+				1E471669290ACD2700AE9AD0 /* MUPhotoDetailViewController.swift */,
+				1E7AE0BB290B2DD3002C40DC /* photos */,
+				F169B05F290427A70001537D /* Assets.xcassets */,
+				F169B061290427A70001537D /* LaunchScreen.storyboard */,
+				F169B064290427A70001537D /* Info.plist */,
+			);
+			path = MUHawksApp;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		F169B052290427A70001537D /* MUHawksApp */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F169B067290427A70001537D /* Build configuration list for PBXNativeTarget "MUHawksApp" */;
+			buildPhases = (
+				F169B04F290427A70001537D /* Sources */,
+				F169B050290427A70001537D /* Frameworks */,
+				F169B051290427A70001537D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = MUHawksApp;
+			productName = MUHawksApp;
+			productReference = F169B053290427A70001537D /* MUHawksApp.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		F169B04B290427A70001537D /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1400;
+				LastUpgradeCheck = 1400;
+				TargetAttributes = {
+					F169B052290427A70001537D = {
+						CreatedOnToolsVersion = 14.0.1;
+					};
+				};
+			};
+			buildConfigurationList = F169B04E290427A70001537D /* Build configuration list for PBXProject "MUHawksApp" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = F169B04A290427A70001537D;
+			productRefGroup = F169B054290427A70001537D /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				F169B052290427A70001537D /* MUHawksApp */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		F169B051290427A70001537D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F169B06C290427C20001537D /* MonmouthInfo.json in Resources */,
+				F169B063290427A70001537D /* LaunchScreen.storyboard in Resources */,
+				F169B060290427A70001537D /* Assets.xcassets in Resources */,
+				F169B05E290427A70001537D /* Main.storyboard in Resources */,
+				1E7AE0BC290B2DD3002C40DC /* photos in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		F169B04F290427A70001537D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1E9D2E20290A13450088478F /* MUSportsTableViewController.swift in Sources */,
+				1E471655290AC84900AE9AD0 /* MUPhotosModel.swift in Sources */,
+				F169B05B290427A70001537D /* MUHawksViewController.swift in Sources */,
+				1E55A586290C6F7F00BFEF89 /* MUSportWebsitesTableViewController.swift in Sources */,
+				1EC326402908E4100083BEEA /* MUMapViewController.swift in Sources */,
+				1EEDC945290790850067C6D9 /* MUDegreeDetailViewController.swift in Sources */,
+				1EC7A00C2906F85100C3888A /* MUDepartmentsTableViewController.swift in Sources */,
+				F169B057290427A70001537D /* AppDelegate.swift in Sources */,
+				1EE93357290B5D7F00B8A1CC /* MUEventTableViewCell.swift in Sources */,
+				1E516FA42908EFD5009109DB /* MUSportWebsiteViewController.swift in Sources */,
+				1EC7A0102906FB2F00C3888A /* MUDepartmentDegreesTableViewController.swift in Sources */,
+				F169B059290427A70001537D /* SceneDelegate.swift in Sources */,
+				1E516FA22908EEDB009109DB /* MUAthleticsTableViewController.swift in Sources */,
+				1EC420192906DFEC00B77D7B /* MUSchoolsTableViewController.swift in Sources */,
+				1E516FA62908F49B009109DB /* MUProgramsTableViewController.swift in Sources */,
+				1E925B5A2906EA6F006997ED /* MUAcademicsTableViewController.swift in Sources */,
+				F169B06D290427C20001537D /* MUModel.swift in Sources */,
+				1E47165A290AC97900AE9AD0 /* MUPhotosCollectionViewController.swift in Sources */,
+				1E47166A290ACD2700AE9AD0 /* MUPhotoDetailViewController.swift in Sources */,
+				1EDD8638290C2C690087E4AA /* MUAthleticsTicketsViewController.swift in Sources */,
+				1E47165C290AC9BE00AE9AD0 /* MUPhotoCollectionViewCell.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		F169B05C290427A70001537D /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				F169B05D290427A70001537D /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		F169B061290427A70001537D /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				F169B062290427A70001537D /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		F169B065290427A70001537D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		F169B066290427A70001537D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		F169B068290427A70001537D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 3Y44VNPF3K;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = MUHawksApp/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = edu.monmouth.csse337.s1307273.MUHawksApp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		F169B069290427A70001537D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 3Y44VNPF3K;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = MUHawksApp/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = edu.monmouth.csse337.s1307273.MUHawksApp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		F169B04E290427A70001537D /* Build configuration list for PBXProject "MUHawksApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F169B065290427A70001537D /* Debug */,
+				F169B066290427A70001537D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F169B067290427A70001537D /* Build configuration list for PBXNativeTarget "MUHawksApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F169B068290427A70001537D /* Debug */,
+				F169B069290427A70001537D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = F169B04B290427A70001537D /* Project object */;
+}

@@ -1,0 +1,1669 @@
+{
+   "academics":{
+      "schools":[
+         {
+            "schoolName":"Science",
+            "departments":[
+               {
+                  "deptName":"Biology",
+                  "degrees":[
+                     {
+                        "name":"BS-BY",
+                        "fullName":"BS Biology",
+                        "description":"Biology reveals the complexity of life and the intricacies of nature. Students in Monmouth University’s biology program develop their critical thinking skills by conducting research in the laboratory and at field sites taking advantage of our Jersey Shore location. Graduates are preparing for careers in the natural sciences, graduate work, or professional school.",
+                        "requiredCourses":[
+                           {
+                              "name":"BY-119",
+                              "fullName":"Introductory Biology Major Seminar"
+                           },
+                           {
+                              "name":"BY-109",
+                              "fullName":"Introduction to Biodiversity and Evolution"
+                           },
+                           {
+                              "name":"BY-110",
+                              "fullName":"Introduction to Cell and Molecular Biology"
+                           }
+                        ]
+                     },
+                     {
+                        "name":"BS-BY-EDS",
+                        "fullName":"BS Biology and Education with Endorsement in Secondary Education in Biology",
+                        "description":"The Biology and Education with an Endorsement in Secondary Education in Biology program provides real-world opportunities to students as they spend time the classroom, while exploring the science of life and the living organisms that make up the world around us.",
+                        "requiredCourses":[
+                           {
+                              "name":"BY-119",
+                              "fullName":"Introductory Biology Major Seminar"
+                           },
+                           {
+                              "name":"ED-250",
+                              "fullName":"Psychological and Philosophical Foundations of Education"
+                           },
+                           {
+                              "name":"EDS-336",
+                              "fullName":"Classroom Management"
+                           }
+                        ]
+                     },
+                     {
+                        "name":"BS-BY-MC",
+                        "fullName":"BS Biology with a Concentration in Molecular Cell Physiology",
+                        "description":"Students with an interest in genetics and biochemistry can concentrate their work in molecular cell physiology. As a discipline, molecular cell physiology studies the link between chemistry and biology, and how the interaction of molecules gives rise to life.",
+                        "requiredCourses":[
+                           {
+                              "name":"BY-370",
+                              "fullName":"Cell Biology"
+                           },
+                           {
+                              "name":"BY-410",
+                              "fullName":"Molecular Biology"
+                           },
+                           {
+                              "name":"BY-110",
+                              "fullName":"Introduction to Cell and Molecular Biology"
+                           }
+                        ]
+                     },
+                     {
+                        "name":"BS-BY-MEBP",
+                        "fullName":"BS Marine and Environmental Biology and Policy",
+                        "description":"Monmouth's B.S. in Marine and Environmental Biology and Policy program will teach you to apply a foundational knowledge of science to pressing environmental issues, laws, and policies. You will learn to analyze marine and terrestrial ecosystems and understand ways to conserve and manage our natural resources.",
+                        "requiredCourses":[
+                           {
+                              "name":"BY-341",
+                              "fullName":"Marine Biology"
+                           },
+                           {
+                              "name":"BY-220",
+                              "fullName":"Environmental Biology and Policy"
+                           },
+                           {
+                              "name":"BY-342",
+                              "fullName":"Coastal Zone Management"
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "deptName":"CSSE",
+                  "degrees":[
+                     {
+                        "name":"BA-CS",
+                        "fullName":"BA Computer Science",
+                        "description":"Students enrolled in Monmouth University’s Bachelor of Arts in Computer Science engage in traditional computer science course work while pursuing additional elective options.",
+                        "requiredCourses":[
+                           {
+                              "name":"CS-104",
+                              "fullName":"Introduction to Problem Solving and Software Development"
+                           },
+                           {
+                              "name":"CS-175",
+                              "fullName":"Introduction to Computer Science I"
+                           },
+                           {
+                              "name":"CS-176",
+                              "fullName":"Introduction to Computer Science II"
+                           }
+                        ]
+                     },
+                     {
+                        "name":"BS-CS",
+                        "fullName":"BS Computer Science",
+                        "description":"Monmouth University’s Bachelor of Science in Computer Science provides a broad, substantive overview and understanding of the many aspects of the 21st century computing professional.",
+                        "requiredCourses":[
+                           {
+                              "name":"CS-104",
+                              "fullName":"Introduction to Problem Solving and Software Development"
+                           },
+                           {
+                              "name":"CS-175",
+                              "fullName":"Introduction to Computer Science I"
+                           },
+                           {
+                              "name":"CS-176",
+                              "fullName":"Introduction to Computer Science II"
+                           }
+                        ]
+                     },
+                     {
+                        "name":"BS-SE",
+                        "fullName":"BS Software Engineering",
+                        "description":"Monmouth is one of very few universities in the nation offering an ABET-accredited Bachelor of Science in Software Engineering degree.",
+                        "requiredCourses":[
+                           {
+                              "name":"SE-205",
+                              "fullName":"Requirements Engineering and Specifications"
+                           },
+                           {
+                              "name":"SE-207",
+                              "fullName":"Software Design and Architecture"
+                           },
+                           {
+                              "name":"SE-306",
+                              "fullName":"Formal Methods in Software Engineering"
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "deptName":"Chemistry",
+                  "degrees":[
+                     {
+                        "name":"BS-CE",
+                        "fullName":"BS Chemistry",
+                        "description":"Monmouth University’s chemistry programs prepare students for a broad range of careers by offering strong preparation in synthetic and analytical chemistry, small classes for enhanced learning and one-on-one interaction with professors, and opportunities to participate in research and other applied learning activities.",
+                        "requiredCourses":[
+                           {
+                              "name":"CE-111",
+                              "fullName":"General Chemistry I"
+                           },
+                           {
+                              "name":"CE-112",
+                              "fullName":"General Chemistry II"
+                           },
+                           {
+                              "name":"CE-241",
+                              "fullName":"Organic Chemistry I"
+                           }
+                        ]
+                     },
+                     {
+                        "name":"BS-CE-EDS",
+                        "fullName":"BS Chemistry and Education with Endorsement in Secondary Education in Chemistry",
+                        "description":"The Chemistry and Education with an Endorsement in Secondary Education in Chemistry program prepares students for a career in education with an emphasis in chemistry, while exploring core concepts of the physical sciences in a cohesive and stimulating learning environment.",
+                        "requiredCourses":[
+                           {
+                              "name":"ED-250",
+                              "fullName":"Psychological and Philosophical Foundations of Education"
+                           },
+                           {
+                              "name":"CE-111",
+                              "fullName":"General Chemistry I"
+                           },
+                           {
+                              "name":"CE-112",
+                              "fullName":"General Chemistry II"
+                           }
+                        ]
+                     },
+                     {
+                        "name":"BS-CE-CP-EDS",
+                        "fullName":"BS Chemistry and Education with Endorsement in Secondary Education in Physical Science",
+                        "description":"The Chemistry and Education with an Endorsement in Secondary Education in Physical Sciences program prepares students for a career in education while exploring core concepts of the physical sciences in a cohesive and stimulating learning environment.",
+                        "requiredCourses":[
+                           {
+                              "name":"CE-111",
+                              "fullName":"General Chemistry I"
+                           },
+                           {
+                              "name":"CE-341",
+                              "fullName":"Physical Chemistry I"
+                           },
+                           {
+                              "name":"ED-250",
+                              "fullName":"Psychological and Philosophical Foundations of Education"
+                           }
+                        ]
+                     },
+                     {
+                        "name":"BS-CE-ACS",
+                        "fullName":"BS Chemistry with a Concentration in Advanced Chemistry (ACS Certified Program)",
+                        "description":"The Advanced Chemistry concentration is an extended curriculum that provides a career-level foundation in all of the traditional subject areas of chemistry.",
+                        "requiredCourses":[
+                           {
+                              "name":"CE-111",
+                              "fullName":"General Chemistry I"
+                           },
+                           {
+                              "name":"CE-112",
+                              "fullName":"General Chemistry II"
+                           },
+                           {
+                              "name":"CE-311",
+                              "fullName":"Chemical Literature"
+                           }
+                        ]
+                     },
+                     {
+                        "name":"BS-CE-BY",
+                        "fullName":"BS Chemistry with a Concentration in Biochemistry",
+                        "description":"Biochemistry is a rapidly growing field that appeals to students interested in both chemistry and biology. The Biochemistry concentration combines the core chemistry program with biology and biochemistry courses.",
+                        "requiredCourses":[
+                           {
+                              "name":"CE-331",
+                              "fullName":"Biochemistry I"
+                           },
+                           {
+                              "name":"CE-332",
+                              "fullName":"Biochemistry II"
+                           },
+                           {
+                              "name":"CE-225",
+                              "fullName":"Bioanalytical Chemistry"
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "deptName":"Mathematics",
+                  "degrees":[
+                     {
+                        "name":"BS-MA",
+                        "fullName":"BS Mathematics",
+                        "description":"Students pursuing Monmouth’s Bachelor of Science in Mathematics will become linguists in the fundamental language of the universe. Our dynamic and experiential curriculum integrates core mathematical subjects with nontraditional courses such as mathematical reasoning and the history of mathematics. You will study the integration of technology and math by exploring programming, mathematical document writing, and graphical and symbolic software.",
+                        "requiredCourses":[
+                           {
+                              "name":"MA-120",
+                              "fullName":"Introduction to Mathematical Reasoning"
+                           },
+                           {
+                              "name":"MA-125",
+                              "fullName":"Calculus with Analytic Geometry I"
+                           },
+                           {
+                              "name":"MA-126",
+                              "fullName":"Calculus with Analytic Geometry II"
+                           }
+                        ]
+                     },
+                     {
+                        "name":"BS-MA-EDE",
+                        "fullName":"BS Mathematics and Education with Endorsement in Elementary Education in Mathematics",
+                        "description":"The Mathematics and Education with an Endorsement in Elementary (K-6) Education program prepares students for a career in education with a strong foundation in mathematics.",
+                        "requiredCourses":[
+                           {
+                              "name":"MA-120",
+                              "fullName":"Introduction to Mathematical Reasoning"
+                           },
+                           {
+                              "name":"MA-125",
+                              "fullName":"Calculus with Analytic Geometry I"
+                           },
+                           {
+                              "name":"MA-325",
+                              "fullName":"History of Mathematics"
+                           }
+                        ]
+                     },
+                     {
+                        "name":"BS-MA-EDS",
+                        "fullName":"BS Mathematics and Education with Endorsement in Secondary Education in Mathematics",
+                        "description":"The Mathematics and Education with an Endorsement in Secondary Education (9-12) in Mathematics program prepares students for a career in education with a strong foundation in mathematics.",
+                        "requiredCourses":[
+                           {
+                              "name":"MA-125",
+                              "fullName":"Calculus with Analytic Geometry I"
+                           },
+                           {
+                              "name":"MA-126",
+                              "fullName":"Calculus with Analytic Geometry II"
+                           },
+                           {
+                              "name":"MA-410",
+                              "fullName":"Modern Algebra"
+                           }
+                        ]
+                     },
+                     {
+                        "name":"BS-MA-STAT",
+                        "fullName":"BS Mathematics with a Concentration in Statistics",
+                        "description":"Math students can choose to concentrate in statistics to focus on data analysis, mathematical models, and specialized statistical programs. The program gives students both a strong foundation in mathematics as well as specialized advanced knowledge in pure and applied statistics.",
+                        "requiredCourses":[
+                           {
+                              "name":"MA-120",
+                              "fullName":"Introduction to Mathematical Reasoning"
+                           },
+                           {
+                              "name":"MA-220",
+                              "fullName":"Probability and Statistics I"
+                           },
+                           {
+                              "name":"MA-320",
+                              "fullName":"Probability and Statistics II"
+                           }
+                        ]
+                     }
+                  ]
+               }
+            ]
+         },
+         {
+            "schoolName":"Education",
+            "departments":[
+               {
+                  "deptName":"Curriculum & Instruction",
+                  "degrees":[
+                     
+                  ]
+               },
+               {
+                  "deptName":"Educational Counseling & Leadership",
+                  "degrees":[
+                     
+                  ]
+               },
+               {
+                  "deptName":"Special Education",
+                  "degrees":[
+                     
+                  ]
+               },
+               {
+                  "deptName":"Speech-Language Pathology",
+                  "degrees":[
+                     {
+                        "name":"MIN-SLP",
+                        "fullName":"Minor in Communication Sciences and Disorders",
+                        "description":"The Communication Sciences and Disorders Minor offers students an opportunity to explore areas such as language development, phonetics, and anatomy and physiology of the speech and hearing mechanism.",
+                        "requiredCourses":[
+                           {
+                              "name":"SLP-201",
+                              "fullName":"Introduction to Communication Sciences and Disorders"
+                           },
+                           {
+                              "name":"SLP-202",
+                              "fullName":"Introduction to Language Development"
+                           },
+                           {
+                              "name":"SLP-301",
+                              "fullName":"Introduction to Phonetics"
+                           }
+                        ]
+                     }
+                  ]
+               }
+            ]
+         },
+         {
+            "schoolName":"Humanities & Social Sciences",
+            "departments":[
+               {
+                  "deptName":"Art & Design",
+                  "degrees":[
+                     {
+                        "name":"BA-AR-EDS",
+                        "fullName":"BA Art and Education with Endorsement in K-12 Education in Art",
+                        "description":"The Art and Education with an Endorsement in K-12 Education in Art program develops students as artists, while preparing them to teach in public and private schools, museums, community art centers, and other settings.",
+                        "requiredCourses":[
+                           {
+                              "name":"AR-113",
+                              "fullName":"Basic Design and Composition"
+                           },
+                           {
+                              "name":"AR-181",
+                              "fullName":"Digital Photography I"
+                           },
+                           {
+                              "name":"ED-250",
+                              "fullName":"Psychological and Philosophical Foundations of Education"
+                           }
+                        ]
+                     },
+                     {
+                        "name":"BA-AR-PHOTO",
+                        "fullName":"BA Art with a Concentration in Photography",
+                        "description":"The B.A. in Art with a Concentration in Photography provides a comprehensive look at the medium of photography and prepares students for a career in photography as well as the arts in general.",
+                        "requiredCourses":[
+                           {
+                              "name":"AR-181",
+                              "fullName":"Digital Photography I"
+                           },
+                           {
+                              "name":"AR-253",
+                              "fullName":"Digital Photography II"
+                           },
+                           {
+                              "name":"AR-353",
+                              "fullName":"Digital Photography III"
+                           }
+                        ]
+                     },
+                     {
+                        "name":"BA-AR",
+                        "fullName":"BA Art",
+                        "description":"The Bachelor of Arts in Art with a Concentration in Studio Art at Monmouth University is designed to teach liberal arts students to express themselves in the plastic arts through visual media and to think and act creatively.",
+                        "requiredCourses":[
+                           {
+                              "name":"AR-113",
+                              "fullName":"Basic Design and Composition"
+                           },
+                           {
+                              "name":"AR-114",
+                              "fullName":"Basic Design and Color"
+                           },
+                           {
+                              "name":"AR-116",
+                              "fullName":"Three-Dimensional Design"
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "deptName":"Communication",
+                  "degrees":[
+                     {
+                        "name":"BA-CO-AC",
+                        "fullName":"BA Communication (Applied Communication)",
+                        "description":"Communication is everywhere, and in this rapidly changing global environment, we need ethical, persuasive, bold, diverse, and critical communicators who can wear many hats and are ready to help change the world. The Communication Studies cluster offers a well-rounded, flexible curriculum that teaches you to evaluate, design, integrate, present, and implement messages in order to solve problems in the real world.",
+                        "requiredCourses":[
+                           {
+                              "name":"CO-100",
+                              "fullName":"Introduction to Communication"
+                           },
+                           {
+                              "name":"CO-115",
+                              "fullName":"Media Literacy"
+                           },
+                           {
+                              "name":"CO-220",
+                              "fullName":"Public Speaking"
+                           }
+                        ]
+                     },
+                     {
+                        "name":"BA-CO-PR",
+                        "fullName":"BA Communication (Journalism/Public Relations)",
+                        "description":"Journalism/Public Relations students develop a deep understanding of the contrasting media fields to prepare them for a wide variety of career opportunities. The faculty bring strong backgrounds to enable students to master everything from interviewing, reporting, and editing, to campaign planning, crisis communication, and social media strategy.",
+                        "requiredCourses":[
+                           {
+                              "name":"CO-295",
+                              "fullName":"Introduction to Public Relations"
+                           },
+                           {
+                              "name":"CO-211",
+                              "fullName":"Introduction to Journalism"
+                           },
+                           {
+                              "name":"CO-264",
+                              "fullName":"Co-Curricular Practicum in Journalism"
+                           }
+                        ]
+                     },
+                     {
+                        "name":"BA-CO-MSP",
+                        "fullName":"BA Communication (Media Studies and Production)",
+                        "description":"In the Media Studies and Production cluster, students learn in impressive cutting-edge facilities that are welcoming and conducive to learning, guided by seasoned faculty with years of professional experience. Students acquire critical-thinking skills, combining theory and practice to create stories that matter.",
+                        "requiredCourses":[
+                           {
+                              "name":"CO-221",
+                              "fullName":"Introduction to Digital Media"
+                           },
+                           {
+                              "name":"CO-224",
+                              "fullName":"Introduction to Mass Communication"
+                           },
+                           {
+                              "name":"CO-226",
+                              "fullName":"Intercultural Communication"
+                           }
+                        ]
+                     },
+                     {
+                        "name":"BA-FO-FSCOMSP",
+                        "fullName":"BA Spanish with a Concentration in Communication (Media Studies and Production)",
+                        "description":"Our B.A. in Spanish students practice communication and apply what they learn as they speak, listen, read, and write in the language. You will develop insight into the experiences of global citizens and communities while focusing your studies in the areas of communication, media studies, and production.",
+                        "requiredCourses":[
+                           {
+                              "name":"FS-301",
+                              "fullName":"Introduction to Hispanic Literature"
+                           },
+                           {
+                              "name":"FS-315",
+                              "fullName":"Introduction to Spanish Linguistics"
+                           },
+                           {
+                              "name":"FS-309",
+                              "fullName":"Culture and Civilization Spain"
+                           }
+                        ]
+                     },
+                     {
+                        "name":"BA-FO-FSCOJN",
+                        "fullName":"BA Spanish with a Concentration in Communication (Journalism)",
+                        "description":"Our B.A. in Spanish students practice communication and apply what they learn as they speak, listen, read, and write in the language. You will develop insight into the experiences of global citizens and communities while focusing your studies in the areas of communication and journalism.",
+                        "requiredCourses":[
+                           {
+                              "name":"FS-411A",
+                              "fullName":"Writing for the Media in Spanish"
+                           },
+                           {
+                              "name":"CO-224",
+                              "fullName":"Introduction to Mass Communication"
+                           },
+                           {
+                              "name":"CO-290",
+                              "fullName":"Media Law"
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "deptName":"Criminal Justice",
+                  "degrees":[
+                     {
+                        "name":"BA-CJ",
+                        "fullName":"BA Criminal Justice",
+                        "description":"Monmouth University’s criminal justice program is designed to provide a balanced and comprehensive overview of the nature and structure of the criminal justice system, with particular emphasis on criminal behavior and technology in the field.",
+                        "requiredCourses":[
+                           {
+                              "name":"CJ-101",
+                              "fullName":"Introduction to Criminal Justice"
+                           },
+                           {
+                              "name":"CJ-211",
+                              "fullName":"Statistics for Criminal Justice"
+                           },
+                           {
+                              "name":"CJ-241",
+                              "fullName":"Criminology"
+                           }
+                        ]
+                     },
+                     {
+                        "name":"BS-HLS",
+                        "fullName":"BS Homeland Security",
+                        "description":"Monmouth’s criminal justice program is designed to provide a balanced and comprehensive overview of the nature and structure of the criminal justice system, with particular emphasis on preparation for careers in fields such as law, juvenile justice, corrections, criminal justice administration, and law enforcement.",
+                        "requiredCourses":[
+                           {
+                              "name":"HLS-101",
+                              "fullName":"Introduction to Homeland Security"
+                           },
+                           {
+                              "name":"HLS-235",
+                              "fullName":"GIS Applications in Homeland Security"
+                           },
+                           {
+                              "name":"HLS-285",
+                              "fullName":"Domestic and International Terrorism"
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "deptName":"English",
+                  "degrees":[
+                     {
+                        "name":"BA-EN",
+                        "fullName":"BA English",
+                        "description":"Pursue your interest in writing and literature with Monmouth’s B.A. in English program. You will receive a comprehensive liberal arts education while completing reading, writing, and research assignments and exploring various works of literature.",
+                        "requiredCourses":[
+                           {
+                              "name":"EN-226",
+                              "fullName":"Literary Studies for English Majors"
+                           },
+                           {
+                              "name":"EN-228",
+                              "fullName":"Foundations of American Literature"
+                           },
+                           {
+                              "name":"EN-305",
+                              "fullName":"Shakespeare I"
+                           }
+                        ]
+                     },
+                     {
+                        "name":"BA-EN-EDE",
+                        "fullName":"BA English and Education with Endorsement in Elementary Education",
+                        "description":"The English and Education with an Endorsement in Elementary Education (K-6) program is designed to serve the various needs of students within the framework of traditional literary study, while preparing students for a career in elementary education.",
+                        "requiredCourses":[
+                           {
+                              "name":"EN-226",
+                              "fullName":"Literary Studies for English Majors"
+                           },
+                           {
+                              "name":"EN-228",
+                              "fullName":"Foundations of American Literature"
+                           },
+                           {
+                              "name":"EN-443",
+                              "fullName":"History of the English Language"
+                           }
+                        ]
+                     },
+                     {
+                        "name":"BA-EN-EDS",
+                        "fullName":"BA English and Education with Endorsement in Secondary Education",
+                        "description":"The English and Education with an Endorsement in Secondary Education (9-12) program is designed to serve the various needs of students within the framework of traditional literary study, while preparing students for a career in secondary education.",
+                        "requiredCourses":[
+                           {
+                              "name":"EN-226",
+                              "fullName":"Literary Studies for English Majors"
+                           },
+                           {
+                              "name":"EN-228",
+                              "fullName":"Foundations of American Literature"
+                           },
+                           {
+                              "name":"ED-250",
+                              "fullName":"Psychological and Philosophical Foundations of Education"
+                           }
+                        ]
+                     },
+                     {
+                        "name":"BA-EN-YI",
+                        "fullName":"BA English and Education with Endorsements in P-3 and Teacher of Students with Disabilities",
+                        "description":"The English and Education with an Endorsement in P-3 and Teacher of Students with Disabilities program is designed to serve the various needs of students within the framework of traditional literary study, while preparing students for a career in secondary education.",
+                        "requiredCourses":[
+                           {
+                              "name":"EN-226",
+                              "fullName":"Literary Studies for English Majors"
+                           },
+                           {
+                              "name":"EN-228",
+                              "fullName":"Foundations of American Literature"
+                           },
+                           {
+                              "name":"EN-305",
+                              "fullName":"Shakespeare I"
+                           }
+                        ]
+                     },
+                     {
+                        "name":"BA-EN-CW",
+                        "fullName":"BA English with a Concentration in Creative Writing",
+                        "description":"Pursue your interest in literature and creative writing with Monmouth’s B.A. in English with a Concentration in Creative Writing program. You will receive a comprehensive liberal arts education while exploring various works of literature and styles of creative writing, including fiction, non-fiction, and poetry.",
+                        "requiredCourses":[
+                           {
+                              "name":"EN-252",
+                              "fullName":"Creative Writing: Fiction"
+                           },
+                           {
+                              "name":"EN-253",
+                              "fullName":"Creative Writing: Poetry"
+                           },
+                           {
+                              "name":"EN-254",
+                              "fullName":"Creative Writing: Drama"
+                           }
+                        ]
+                     },
+                     {
+                        "name":"BA-EN-CW-EDE",
+                        "fullName":"BA English with a Concentration in Creative Writing with Endorsement in Elementary Education",
+                        "description":"The English with a Concentration in Creative Writing and Education with Endorsement in Elementary Education (K-6) program offers students courses that focus on different genres of writing, while they prepare for a career in elementary education.",
+                        "requiredCourses":[
+                           {
+                              "name":"EN-226",
+                              "fullName":"Literary Studies for English Majors"
+                           },
+                           {
+                              "name":"EN-228",
+                              "fullName":"Foundations of American Literature"
+                           },
+                           {
+                              "name":"EN-305",
+                              "fullName":"Shakespeare I"
+                           }
+                        ]
+                     },
+                     {
+                        "name":"BA-EN-CW-EDS",
+                        "fullName":"BA English with a Concentration in Creative Writing with Endorsement in Secondary Education",
+                        "description":"The English with a Concentration in Creative Writing and Education with Endorsement in Secondary Education (9-12) program offers students courses that focus on different genres of writing, while they prepare for a career in secondary education.",
+                        "requiredCourses":[
+                           {
+                              "name":"EN-226",
+                              "fullName":"Literary Studies for English Majors"
+                           },
+                           {
+                              "name":"EN-228",
+                              "fullName":"Foundations of American Literature"
+                           },
+                           {
+                              "name":"EN-305",
+                              "fullName":"Shakespeare I"
+                           }
+                        ]
+                     },
+                     {
+                        "name":"BA-EN-CW-YI",
+                        "fullName":"BA English and Education with Endorsements in P-3 and Teacher of Students with Disabilities",
+                        "description":"The English and Education with an Endorsement in P-3 and Teacher of Students with Disabilities program is designed to serve the various needs of students within the framework of traditional literary study, while preparing students for a career in secondary education.",
+                        "requiredCourses":[
+                           {
+                              "name":"EN-226",
+                              "fullName":"Literary Studies for English Majors"
+                           },
+                           {
+                              "name":"EN-228",
+                              "fullName":"Foundations of American Literature"
+                           },
+                           {
+                              "name":"EN-305",
+                              "fullName":"Shakespeare I"
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "deptName":"History & Anthropology",
+                  "degrees":[
+                     {
+                        "name":"BA-HS",
+                        "fullName":"BA History",
+                        "description":"The B.A. in History curriculum is designed to provide an understanding of the complex forces that have shaped the modern world. Course offerings in history provide students with a strong background in U.S. and European history, as well as in the history of Western Civilization.",
+                        "requiredCourses":[
+                           {
+                              "name":"HS-212",
+                              "fullName":"Introduction to Public History"
+                           },
+                           {
+                              "name":"AN-103",
+                              "fullName":"Cultural Anthropology"
+                           },
+                           {
+                              "name":"GO-100",
+                              "fullName":"People, Places, and Environments: Introduction to Geography"
+                           }
+                        ]
+                     },
+                     {
+                        "name":"BA-AN",
+                        "fullName":"BA Anthropology",
+                        "description":"The anthropology curriculum is designed to provide a liberal arts education that emphasizes the scientific study of humanity. Three areas of anthropology are covered: cultural anthropology, archaeology, and biological anthropology.",
+                        "requiredCourses":[
+                           {
+                              "name":"AN-103",
+                              "fullName":"Cultural Anthropology"
+                           },
+                           {
+                              "name":"AN-104",
+                              "fullName":"Introduction to Biological Anthropology"
+                           },
+                           {
+                              "name":"AN-382",
+                              "fullName":"Applied Anthropology"
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "deptName":"Music & Theatre Arts",
+                  "degrees":[
+                     {
+                        "name":"BA-MU",
+                        "fullName":"BA Music",
+                        "description":"B.A. in Music students can explore applied music study in voice, piano, woodwinds, brass, guitar, and percussion while learning from award-winning producers, musicians, vocalists, theater professionals, and music industry executives.",
+                        "requiredCourses":[
+                           {
+                              "name":"MU-151",
+                              "fullName":"Group Piano I"
+                           },
+                           {
+                              "name":"MU-171",
+                              "fullName":"Group Voice I"
+                           },
+                           {
+                              "name":"MU-217",
+                              "fullName":"The American Music Tradition"
+                           }
+                        ]
+                     },
+                     {
+                        "name":"BA-MU-MI",
+                        "fullName":"BA Music with a Concentration in Music Industry",
+                        "description":"B.A. in Music students can explore applied music study in voice, piano, woodwinds, brass, guitar, and percussion while learning from award-winning producers, musicians, vocalists, theater professionals, and music industry executives.",
+                        "requiredCourses":[
+                           {
+                              "name":"MU-240",
+                              "fullName":"Record Label Strategies"
+                           },
+                           {
+                              "name":"MU-140",
+                              "fullName":"Applied Music Industry I"
+                           },
+                           {
+                              "name":"MU-254",
+                              "fullName":"Arts Administration and Concert Promotion"
+                           }
+                        ]
+                     },
+                     {
+                        "name":"BA-MU-MT",
+                        "fullName":"BA Music with a Concentration in Musical Theatre",
+                        "description":"B.A. in Music students can explore applied music study in voice, piano, woodwinds, brass, guitar, and percussion while learning from award-winning producers, musicians, vocalists, theater professionals, and music industry executives.",
+                        "requiredCourses":[
+                           {
+                              "name":"MU-221",
+                              "fullName":"Theory I"
+                           },
+                           {
+                              "name":"MU-222",
+                              "fullName":"Theory II"
+                           },
+                           {
+                              "name":"MU-218",
+                              "fullName":"History and Literature of Music I"
+                           }
+                        ]
+                     },
+                     {
+                        "name":"BA-MU-EDS",
+                        "fullName":"BA Music and Education with Endorsement in K-12 Education in Music",
+                        "description":"The Music and Education with an Endorsement in K-12 Education in Music program is designed for students looking to have a successful career music education and gain hands-on knowledge through field teaching experience and subsequent student teaching experience.",
+                        "requiredCourses":[
+                           {
+                              "name":"MU-151",
+                              "fullName":"Group Piano I"
+                           },
+                           {
+                              "name":"MU-171",
+                              "fullName":"Group Voice I"
+                           },
+                           {
+                              "name":"MU-217",
+                              "fullName":"The American Music Tradition"
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "deptName":"Political Science & Sociology",
+                  "degrees":[
+                     {
+                        "name":"BA-PS",
+                        "fullName":"BA Political Science",
+                        "description":"The Bachelor of Arts in Political Science is ideal for students who want to gain an understanding in the fundamentals of early and modern political thought, American government, international relations, comparative political systems, legal studies, gender studies, public policy, and research methods. With our immersive curriculum, you will foster a passion for civic engagement and challenge intellectual curiosity.",
+                        "requiredCourses":[
+                           {
+                              "name":"PS-101",
+                              "fullName":"Introduction to Political Science: Power and Globalization"
+                           },
+                           {
+                              "name":"PS-103",
+                              "fullName":"American National Government"
+                           },
+                           {
+                              "name":"PS-221",
+                              "fullName":"Early Political Thought"
+                           }
+                        ]
+                     },
+                     {
+                        "name":"BA-PS-EDE",
+                        "fullName":"BA Political Science and Education with Endorsement in Elementary Education",
+                        "description":"The Political Science and Education with an Endorsement in Elementary Education (K-6) program is designed to prepare students for a career in education and provide an understanding in the fundamentals of early and modern political thought and public policy.",
+                        "requiredCourses":[
+                           {
+                              "name":"PS-101",
+                              "fullName":"Introduction to Political Science: Power and Globalization"
+                           },
+                           {
+                              "name":"PS-250",
+                              "fullName":"Fundamentals of Social Science Research"
+                           },
+                           {
+                              "name":"ED-260",
+                              "fullName":"Methods of Teaching Elementary Mathematics"
+                           }
+                        ]
+                     },
+                     {
+                        "name":"BA-PS-INT",
+                        "fullName":"BA Political Science with a Concentration in International Relations",
+                        "description":"The Bachelor of Arts in Political Science is ideal for students who want to gain an understanding in the fundamentals of early and modern political thought, American government, international relations, comparative political systems, legal studies, gender studies, public policy, and research methods. With our immersive curriculum, you will foster a passion for civic engagement and challenge intellectual curiosity.",
+                        "requiredCourses":[
+                           {
+                              "name":"PS-103",
+                              "fullName":"American National Government"
+                           },
+                           {
+                              "name":"PS-383",
+                              "fullName":"Model UN Conference"
+                           },
+                           {
+                              "name":"PS-250",
+                              "fullName":"Fundamentals of Social Science Research"
+                           }
+                        ]
+                     },
+                     {
+                        "name":"BA-PS-LGS",
+                        "fullName":"BA Political Science with a Concentration in Legal Studies",
+                        "description":"Monmouth’s B.A. in Political Science with a Concentration in Legal Studies degree program provides a framework for students interested in the law, from preparation for law school to a starting point for paralegal career opportunities.",
+                        "requiredCourses":[
+                           {
+                              "name":"PS-307",
+                              "fullName":"The American Judiciary"
+                           },
+                           {
+                              "name":"PS-311",
+                              "fullName":"Introduction to Constitutional Law"
+                           },
+                           {
+                              "name":"PS-312",
+                              "fullName":"Constitutional Law: Civil Rights"
+                           }
+                        ]
+                     },
+                     {
+                        "name":"BA-SO",
+                        "fullName":"BA Sociology",
+                        "description":"The Bachelor of Arts in Sociology is ideal for students interested in how people interact with each other and relate to the larger society around them. You will examine the relationships between social systems and individual choices while learning to contribute to the common good by working to positively change systems.",
+                        "requiredCourses":[
+                           {
+                              "name":"SO-101",
+                              "fullName":"Introduction to Sociology"
+                           },
+                           {
+                              "name":"SO-245",
+                              "fullName":"Theories of Society I"
+                           },
+                           {
+                              "name":"SO-250",
+                              "fullName":"Fundamentals of Social Science Research"
+                           }
+                        ]
+                     },
+                     {
+                        "name":"BA-SO-ARCO",
+                        "fullName":"BA Sociology with a Concentration in Applied Research and Community Organizing",
+                        "description":"This degree does not yet have a description.",
+                        "requiredCourses":[
+                           {
+                              "name":"SO-101",
+                              "fullName":"Introduction to Sociology"
+                           },
+                           {
+                              "name":"SO-245",
+                              "fullName":"Theories of Society I"
+                           },
+                           {
+                              "name":"SO-250",
+                              "fullName":"Fundamentals of Social Science Research"
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "deptName":"Psychology",
+                  "degrees":[
+                     {
+                        "name":"BA-PY",
+                        "fullName":"BA Psychology",
+                        "description":"Monmouth’s B.A. in Psychology program allows students to explore the broad spectrum of opportunities within the field through skill development and hands-on experiences.",
+                        "requiredCourses":[
+                           {
+                              "name":"PY-103",
+                              "fullName":"Introduction to Psychology"
+                           },
+                           {
+                              "name":"PY-203",
+                              "fullName":"Child Psychology"
+                           },
+                           {
+                              "name":"PY-207",
+                              "fullName":"Social Psychology"
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "deptName":"World Languages & Cultures",
+                  "degrees":[
+                     {
+                        "name":"BA-FO-FS",
+                        "fullName":"BA Spanish",
+                        "description":"Our B.A. in Spanish students practice communication and apply what they learn as they speak, listen, read, and write in the language. You will study Spanish through the lenses of culture, literature, film, pronunciation, media studies, and business while developing insight into the experiences of global citizens and communities.",
+                        "requiredCourses":[
+                           {
+                              "name":"FS-301",
+                              "fullName":"Introduction to Hispanic Literature"
+                           },
+                           {
+                              "name":"FS-315",
+                              "fullName":"Introduction to Spanish Linguistics"
+                           },
+                           {
+                              "name":"FS-305",
+                              "fullName":"Survey of Spanish-American Literature"
+                           }
+                        ]
+                     },
+                     {
+                        "name":"BA-FO-FSCOMSP",
+                        "fullName":"BA Spanish with a Concentration in Communication (Media Studies and Production)",
+                        "description":"Our B.A. in Spanish students practice communication and apply what they learn as they speak, listen, read, and write in the language. You will develop insight into the experiences of global citizens and communities while focusing your studies in the areas of communication, media studies, and production.",
+                        "requiredCourses":[
+                           {
+                              "name":"FS-301",
+                              "fullName":"Introduction to Hispanic Literature"
+                           },
+                           {
+                              "name":"FS-315",
+                              "fullName":"Introduction to Spanish Linguistics"
+                           },
+                           {
+                              "name":"FS-305",
+                              "fullName":"Survey of Spanish-American Literature"
+                           }
+                        ]
+                     },
+                     {
+                        "name":"BA-FO-FS-EDE",
+                        "fullName":"BA Spanish and Education with Endorsement in Elementary Education",
+                        "description":"The Spanish and Education with an Endorsement in Elementary Education (K-6) program is designed to prepare students for a career in education with linguistic proficiency in a second language.",
+                        "requiredCourses":[
+                           {
+                              "name":"FS-301",
+                              "fullName":"Introduction to Hispanic Literature"
+                           },
+                           {
+                              "name":"FS-315",
+                              "fullName":"Introduction to Spanish Linguistics"
+                           },
+                           {
+                              "name":"FS-305",
+                              "fullName":"Survey of Spanish-American Literature"
+                           }
+                        ]
+                     },
+                     {
+                        "name":"BA-FO-FS-EDS",
+                        "fullName":"BA Spanish and Education with Endorsement in Secondary Education",
+                        "description":"The Spanish and Education with an Endorsement in K-12 Education in Spanish program is designed to prepare students for a career in education with linguistic proficiency in a second language.",
+                        "requiredCourses":[
+                           {
+                              "name":"FS-301",
+                              "fullName":"Introduction to Hispanic Literature"
+                           },
+                           {
+                              "name":"FS-315",
+                              "fullName":"Introduction to Spanish Linguistics"
+                           },
+                           {
+                              "name":"FS-305",
+                              "fullName":"Survey of Spanish-American Literature"
+                           }
+                        ]
+                     }
+                  ]
+               }
+            ]
+         },
+         {
+            "schoolName":"Business",
+            "departments":[
+               {
+                  "deptName":"Accounting",
+                  "degrees":[
+                     {
+                        "name":"BS-BUBA",
+                        "fullName":"BS Business Administration with a Concentration in Accounting",
+                        "description":"Business Administration majors, with a concentration in accounting, are prepared for wonderful accounting careers. The accounting program fulfills all the undergraduate academic requirements to sit for the CPA exam. Many students choose to fulfill the 150 credit-hour requirement for the CPA license—by attending graduate school (here at Monmouth University) or by supplementing their undergraduate program with a minor or second concentration.",
+                        "requiredCourses":[
+                           {
+                              "name":"BA-251",
+                              "fullName":"Principles of Financial Accounting"
+                           },
+                           {
+                              "name":"BA-252",
+                              "fullName":"Principles of Managerial Accounting"
+                           },
+                           {
+                              "name":"BE-201",
+                              "fullName":"Microeconomics"
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "deptName":"Economics, Finance, & Real Estate",
+                  "degrees":[
+                     {
+                        "name":"BS-BUBE",
+                        "fullName":"BS Business Administration with a Concentration in Economics",
+                        "description":"With a concentration in economics, business students learn to use fundamental economic concepts and methods to analyze the impact of economic forces on decision-making. Course work focuses on micro, macro, labor, and ecological economics, as well as growth, development, globalization, and forecasting.",
+                        "requiredCourses":[
+                           {
+                              "name":"BA-251",
+                              "fullName":"Principles of Financial Accounting"
+                           },
+                           {
+                              "name":"BE-202",
+                              "fullName":"Macroeconomics"
+                           },
+                           {
+                              "name":"BE-201",
+                              "fullName":"Microeconomics"
+                           }
+                        ]
+                     },
+                     {
+                        "name":"BS-BUBF",
+                        "fullName":"BS Business Administration with a Concentration in Finance",
+                        "description":"Finance students learn to assess and price risk, apply finance theories to market analysis, and analyze corporate investment and financing decisions. Course work focuses on risk assessment, the risk and rewards of stocks and bonds, corporate finance management, financial accounting, capital formation, capital structure, banking, futures, options and other derivatives, long-term planning, and investment.",
+                        "requiredCourses":[
+                           {
+                              "name":"BA-251",
+                              "fullName":"Principles of Financial Accounting"
+                           },
+                           {
+                              "name":"BE-202",
+                              "fullName":"Macroeconomics"
+                           },
+                           {
+                              "name":"BF-301",
+                              "fullName":"Principles of Finance"
+                           }
+                        ]
+                     },
+                     {
+                        "name":"BS-BUBEF",
+                        "fullName":"BS Business Administration with a Concentration in Economics and Finance",
+                        "description":"With a concentration in economics, business students learn to use fundamental economic concepts and methods to analyze the impact of economic forces on decision-making. Course work focuses on micro, macro, labor, and ecological economics, as well as growth, development, globalization, and forecasting.",
+                        "requiredCourses":[
+                           {
+                              "name":"BA-251",
+                              "fullName":"Principles of Financial Accounting"
+                           },
+                           {
+                              "name":"BE-202",
+                              "fullName":"Macroeconomics"
+                           },
+                           {
+                              "name":"BF-301",
+                              "fullName":"Principles of Finance"
+                           }
+                        ]
+                     },
+                     {
+                        "name":"BS-BUBR",
+                        "fullName":"BS Business Administration with a Concentration in Real Estate",
+                        "description":"Finance students learn to assess and price risk, apply finance theories to market analysis, and analyze corporate investment and financing decisions. Course work focuses on risk assessment, the risk and rewards of stocks and bonds, corporate finance management, financial accounting, capital formation, capital structure, banking, futures, options and other derivatives, long-term planning, and investment.",
+                        "requiredCourses":[
+                           {
+                              "name":"BR-301",
+                              "fullName":"Real Estate Law"
+                           },
+                           {
+                              "name":"BR-310",
+                              "fullName":"Real Estate Appraisal"
+                           },
+                           {
+                              "name":"BR-303",
+                              "fullName":"Real Estate Finance Investment and Taxation"
+                           }
+                        ]
+                     },
+                     {
+                        "name":"BS-BUBFR",
+                        "fullName":"BS Business Administration with a Concentration in Finance and Real Estate",
+                        "description":"Finance students learn to assess and price risk, apply finance theories to market analysis, and analyze corporate investment and financing decisions. Course work focuses on risk assessment, the risk and rewards of stocks and bonds, corporate finance management, financial accounting, capital formation, capital structure, banking, futures, options and other derivatives, long-term planning, and investment.",
+                        "requiredCourses":[
+                           {
+                              "name":"BR-301",
+                              "fullName":"Real Estate Law"
+                           },
+                           {
+                              "name":"BR-310",
+                              "fullName":"Real Estate Appraisal"
+                           },
+                           {
+                              "name":"BE-304",
+                              "fullName":"Money, Credit, and Financial Institutions"
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "deptName":"Management & Leadership",
+                  "degrees":[
+                     {
+                        "name":"BS-BUBLOD",
+                        "fullName":"BS Business Administration with a Concentration in Leadership and Organizational Development",
+                        "description":"The Management and Leadership curriculum within the Bachelor of Science in Business Administration program provides both a broad understanding of all the business disciplines and an area of focus in one of three departmental concentrations. Through concentrations in the undergraduate business administration program.",
+                        "requiredCourses":[
+                           {
+                              "name":"BA-251",
+                              "fullName":"Principles of Financial Accounting"
+                           },
+                           {
+                              "name":"BA-252",
+                              "fullName":"Principles of Managerial Accounting"
+                           },
+                           {
+                              "name":"BE-201",
+                              "fullName":"Microeconomics"
+                           }
+                        ]
+                     },
+                     {
+                        "name":"BS-BUBSBM",
+                        "fullName":"BS Business Administration with a Concentration in Small Business Management and Entrepreneurship",
+                        "description":"The Management and Leadership curriculum within the Bachelor of Science in Business Administration program provides both a broad understanding of all the business disciplines and an area of focus in one of three departmental concentrations. Through concentrations in the undergraduate business administration program.",
+                        "requiredCourses":[
+                           {
+                              "name":"BM-432",
+                              "fullName":"Hospitality Management and Marketing"
+                           },
+                           {
+                              "name":"BM-451",
+                              "fullName":"Entrepreneurship"
+                           },
+                           {
+                              "name":"BM-456",
+                              "fullName":"Franchising"
+                           }
+                        ]
+                     },
+                     {
+                        "name":"BS-BUBOSD",
+                        "fullName":"BS Business Administration with a Concentration in Operations, Supply Chain, and Data Management",
+                        "description":"The Management and Leadership curriculum within the Bachelor of Science in Business Administration program provides both a broad understanding of all the business disciplines and an area of focus in one of three departmental concentrations. Through concentrations in the undergraduate business administration program.",
+                        "requiredCourses":[
+                           {
+                              "name":"BM-350",
+                              "fullName":"Operations Management"
+                           },
+                           {
+                              "name":"BE-251",
+                              "fullName":"Business Statistics"
+                           },
+                           {
+                              "name":"BL-201",
+                              "fullName":"Legal Environment of Business I"
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "deptName":"Marketing & International Business",
+                  "degrees":[
+                     {
+                        "name":"BS-BUBK",
+                        "fullName":"BS Business Administration with a Concentration in Marketing",
+                        "description":"Business is increasingly becoming global. As a result, being able to reach people from around the world is crucial. The Department of Marketing and International Business recognizes this need and addresses it through two concentrations in the undergraduate business administration program: Marketing, International Business.",
+                        "requiredCourses":[
+                           {
+                              "name":"BK-250",
+                              "fullName":"Principles of Marketing"
+                           },
+                           {
+                              "name":"BM-250",
+                              "fullName":"Principles of Management and Organizational Behavior"
+                           },
+                           {
+                              "name":"BL-201",
+                              "fullName":"Legal Environment of Business I"
+                           }
+                        ]
+                     },
+                     {
+                        "name":"BS-BUBKM",
+                        "fullName":"BS Business Administration with a Concentration in Marketing and Management",
+                        "description":"Business is increasingly becoming global. As a result, being able to reach people from around the world is crucial. The Department of Marketing and International Business recognizes this need and addresses it through two concentrations in the undergraduate business administration program: Marketing, International Business.",
+                        "requiredCourses":[
+                           {
+                              "name":"BK-301",
+                              "fullName":"Marketing Research"
+                           },
+                           {
+                              "name":"BK-304",
+                              "fullName":"Consumer Behavior"
+                           },
+                           {
+                              "name":"BK-311",
+                              "fullName":"Principles of Advertising"
+                           }
+                        ]
+                     },
+                     {
+                        "name":"BS-BUBI",
+                        "fullName":"BS Business Administration with a Concentration in International Business",
+                        "description":"Business is increasingly becoming global. As a result, being able to reach people from around the world is crucial. The Department of Marketing and International Business recognizes this need and addresses it through two concentrations in the undergraduate business administration program: Marketing, International Business.",
+                        "requiredCourses":[
+                           {
+                              "name":"BE-201",
+                              "fullName":"Microeconomics"
+                           },
+                           {
+                              "name":"BE-202",
+                              "fullName":"Macroeconomics"
+                           },
+                           {
+                              "name":"BF-301",
+                              "fullName":"Principles of Finance"
+                           }
+                        ]
+                     }
+                  ]
+               }
+            ]
+         },
+         {
+            "schoolName":"Social Work",
+            "departments":[
+               {
+                  "deptName":"Social Work",
+                  "degrees":[
+                     {
+                        "name":"BSW-SW",
+                        "fullName":"BSW Social Work",
+                        "description":"The Bachelor of Social Work Program at Monmouth University is a fully accredited program by the Council on Social Work Education and introduces students to the knowledge, values, skills, and ethics necessary for competent practice of the social work profession.",
+                        "requiredCourses":[
+                           {
+                              "name":"SW-105",
+                              "fullName":"Introduction to Social Work"
+                           },
+                           {
+                              "name":"SW-223",
+                              "fullName":"Human Behavior and Social Environment"
+                           },
+                           {
+                              "name":"PY-103",
+                              "fullName":"Introduction to Psychology"
+                           }
+                        ]
+                     },
+                     {
+                        "name":"BSW-SWCJ",
+                        "fullName":"BSW Social Work with Criminal Justice",
+                        "description":"Monmouth University's Social Work with Criminal Justice dual degree program prepares students to handle complex societal challenges that can affect the safety and wellbeing of a community.",
+                        "requiredCourses":[
+                           {
+                              "name":"CJ-205",
+                              "fullName":"Corrections"
+                           },
+                           {
+                              "name":"CJ-225",
+                              "fullName":"Law Enforcement"
+                           },
+                           {
+                              "name":"SW-105",
+                              "fullName":"Introduction to Social Work"
+                           }
+                        ]
+                     }
+                  ]
+               }
+            ]
+         },
+         {
+            "schoolName":"Nurse and Health Studies",
+            "departments":[
+               {
+                  "deptName":"Nursing",
+                  "degrees":[
+                     {
+                        "name":"BS-N",
+                        "fullName":"BSN Nursing - Pre-Licensure",
+                        "description":"With the rising healthcare needs of today’s society, there is currently a high demand for qualified registered nurses. To meet this demand and educate the nurses of tomorrow, Monmouth University is offering a pre-licensure Bachelor of Science in Nursing (BSN) program for students committed to a career in nursing. For professional nurses interested in career development, Monmouth also offers RN to BSN programs designed around the schedules of working registered nurses.",
+                        "requiredCourses":[
+                           {
+                              "name":"NU-207",
+                              "fullName":"Transcultural Health"
+                           },
+                           {
+                              "name":"NU-210",
+                              "fullName":"Nutrition and Health"
+                           },
+                           {
+                              "name":"NU-215",
+                              "fullName":"Issues and Trends in Professional Nursing"
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "deptName":"Health Studies",
+                  "degrees":[
+                     {
+                        "name":"BS-HE-EX",
+                        "fullName":"BS Health Studies",
+                        "description":"The need is rising for skilled experts to deal with all aspects of human health. The fields of medicine, nursing, physical therapy, physician assistant, wellness, healthcare management, nutrition, physical education, community and global health, and complementary health therapies are growing at record rates.",
+                        "requiredCourses":[
+                           {
+                              "name":"HE-101",
+                              "fullName":"Strategies for Healthy Living"
+                           },
+                           {
+                              "name":"HE-150",
+                              "fullName":"Medical Terminology"
+                           },
+                           {
+                              "name":"HE-290",
+                              "fullName":"Health Research Methods"
+                           }
+                        ]
+                     },
+                     {
+                        "name":"BS-HE-HE",
+                        "fullName":"BS Health Studies",
+                        "description":"The need is rising for skilled experts to deal with all aspects of human health. The fields of medicine, nursing, physical therapy, physician assistant, wellness, healthcare management, nutrition, physical education, community and global health, and complementary health therapies are growing at record rates.",
+                        "requiredCourses":[
+                           {
+                              "name":"HE-101",
+                              "fullName":"Strategies for Healthy Living"
+                           },
+                           {
+                              "name":"HE-150",
+                              "fullName":"Medical Terminology"
+                           },
+                           {
+                              "name":"HE-290",
+                              "fullName":"Health Research Methods"
+                           }
+                        ]
+                     }
+                  ]
+               }
+            ]
+         }
+      ]
+   },
+   "athletics":{
+      "sports":[
+         {
+            "name":"⚾️ Baseball",
+            "homepageUrl":"https://monmouthhawks.com/sports/baseball?path=baseball",
+            "scheduleUrl":"https://monmouthhawks.com/sports/baseball/schedule?path=baseball"
+         },
+         {
+            "name":"🏀 Men's Basketball",
+            "homepageUrl":"https://monmouthhawks.com/sports/mens-basketball?path=mbball",
+            "scheduleUrl":"https://monmouthhawks.com/sports/mens-basketball/schedule?path=mbball"
+         },
+         {
+            "name":"🏀 Women's Basketball",
+            "homepageUrl":"https://monmouthhawks.com/sports/womens-basketball?path=wbball",
+            "scheduleUrl":"https://monmouthhawks.com/sports/womens-basketball/schedule"
+         },
+         {
+            "name":"🏈 Football",
+            "homepageUrl":"https://monmouthhawks.com/sports/football?path=football",
+            "scheduleUrl":"https://monmouthhawks.com/sports/football/schedule?path=football"
+         },
+         {
+            "name":"⚽️ Men's Soccer",
+            "homepageUrl":"https://monmouthhawks.com/sports/mens-soccer?path=msoc",
+            "scheduleUrl":"https://monmouthhawks.com/sports/mens-soccer/schedule?path=msoc"
+         },
+         {
+            "name":"⚽️ Women's Soccer",
+            "homepageUrl":"https://monmouthhawks.com/sports/womens-soccer?path=wsoc",
+            "scheduleUrl":"https://monmouthhawks.com/sports/womens-soccer/schedule?path=wsoc"
+         },
+         {
+            "name":"🏑 Field Hockey",
+            "homepageUrl":"https://monmouthhawks.com/sports/field-hockey?path=fhockey",
+            "scheduleUrl":"https://monmouthhawks.com/sports/field-hockey/schedule?path=fhockey"
+         },
+         {
+            "name":"🥎 Softball",
+            "homepageUrl":"https://monmouthhawks.com/sports/softball?path=softball",
+            "scheduleUrl":"https://monmouthhawks.com/sports/softball/schedule?path=softball"
+         }
+      ]
+   },
+   "events":[
+      {
+         "name":"Opening of CSSE Tutoring Center",
+         "description":"The CSSE Tutoring Center will be opening for business! Get help with all of your CSSE classes this semester! Tutoring is offered for many CS courses ranging from introductory- to 400-level."
+      },
+      {
+         "name":"Miriam Beerman: 1923-2022 NOTHING HAS CHANGED",
+         "description":"This exhibition shines a spotlight on the late Miriam Beerman, a New Jersey artist whose works are included in the permanent collections of over 60 museums worldwide and a female pioneer in the 20th-century art world."
+      },
+      {
+         "name":"Jeanine Pennell: Stepping off the Page: Stories in Clay",
+         "description":"An exhibition of work by artist Jeanine Pennell."
+      },
+      {
+         "name":"\"Classical Realism\" with master painter - Scott Nickerson",
+         "description":"This exhibit features work by painter Scott Nickerson and his core group of advanced students, and is a great example of the powerful influence one master painter can have on a school of artists."
+      },
+      {
+         "name":"Venice: Infinitely Avant Garde",
+         "description":"A tour of the magical city, Venice: Infinitely Avant Garde showcases masterpieces by Tiepolo, Canaletto, Rosalba Carriera and the intellectuals who fell in love with Venice: from Canova to Goethe, Lord Byron to Walter Scott, down to the great Hollywood stars drawn to its yearly Film Festival."
+      },
+      {
+         "name":"The Grateful Dead, American Beauty",
+         "description":"It’s just like book club but with albums! With new advances in technology, the way we consume music through our devices, apps and on demand streaming services like Pandora, Spotify and iTunes is making the idea of the “album” as an art form extinct. Get together with other music enthusiasts on Tuesday nights to discuss some of the greatest records of all-time!"
+      },
+      {
+         "name":"Mothermotherland Created by Slovo. Theater Group",
+         "description":"Slovo. Theater Group is a group of Ukrainian and American actors and directors who have developed an original performance based on the work of Ukrainian author Mykola Khyvylovy. Mothermotherland, by Slovo. Theater Group, is an original devised theater performance developed over the last three months by Ukrainians artists-in-residence with playwright Audrey Rose Dégez."
+      },
+      {
+         "name":"The Clay Bird",
+         "description":"Join us for a World Cinema Series film screening/discussion illuminating the theme “Wartime Lives: Enduring and Transcending Violence and Occupation” by analyzing the message and impact of the film The Clay Bird (Bengali, 2002)."
+      },
+      {
+         "name":"Writing Memoir",
+         "description":"This three-session virtual course provides attendees with an introduction to basic modes for telling the stories of their lives. Working in a supportive workshop setting, students will enjoy engaging, wide-ranging discussion about the joys and challenges of bringing their memories to life. Instructor: Mike Farragher, Monmouth University alumnus and author of numerous works of fiction and memoir."
+      }
+   ],
+   "landmarks":[
+      {
+         "name":"Great Hall",
+         "latitude":40.27989,
+         "longitude":-74.00479
+      },
+      {
+         "name":"Howard Hall",
+         "latitude":40.27789,
+         "longitude":-74.00515
+      },
+      {
+         "name":"Edison Hall",
+         "latitude":40.27860,
+         "longitude":-74.00529
+      },
+      {
+         "name":"Bey Hall",
+         "latitude":40.27785,
+         "longitude":-74.00588
+      },
+      {
+         "name":"Pozycki Hall",
+         "latitude":40.27829,
+         "longitude":-74.00632
+      },
+      {
+         "name":"Plangere Center",
+         "latitude":40.28054,
+         "longitude":-74.00642
+      },
+      {
+         "name":"Pollak Theater",
+         "latitude":40.27732,
+         "longitude":-74.00491
+      },
+      {
+         "name":"Rebecca Stafford Student Center",
+         "latitude":40.27877,
+         "longitude":-74.00635
+      },
+      {
+         "name":"Guggenheim Memorial Library",
+         "latitude":40.28284,
+         "longitude":-74.00261
+      },
+      {
+         "name":"Hawk Statue",
+         "latitude":40.27874,
+         "longitude":-74.00717
+      },
+      {
+         "name":"Boylan Gymnasium",
+         "latitude":40.27868,
+         "longitude":-74.00776
+      },
+      {
+         "name":"OceanFirst Bank Center",
+         "latitude":40.27912,
+         "longitude":-74.00789
+      },
+      {
+         "name":"Kessler Stadium",
+         "latitude":40.27878,
+         "longitude":-74.00942
+      },
+      {
+         "name":"Baseball Field",
+         "latitude":40.27735,
+         "longitude":-74.00926
+      },
+      {
+         "name":"Softball Park",
+         "latitude":40.28110,
+         "longitude":-74.01010
+      },
+      {
+         "name":"Field Hockey Field",
+         "latitude":40.28030,
+         "longitude":-74.01004
+      },
+      {
+         "name":"McAllan Hall",
+         "latitude":40.28124,
+         "longitude":-74.00660
+      },
+      {
+         "name":"Rechnitz Hall",
+         "latitude":40.27999,
+         "longitude":-74.00635
+      },
+      {
+         "name":"Erlanger Gardens",
+         "latitude":40.27946,
+         "longitude":-74.00551
+      },
+      {
+         "name":"Samuel Hays Magill Commons",
+         "latitude":40.28045,
+         "longitude":-74.00383
+      },
+      {
+         "name":"Monmouth University Store",
+         "latitude":40.27931,
+         "longitude":-74.00713
+      },
+      {
+         "name":"Hesse Field",
+         "latitude":40.27891,
+         "longitude":-74.00407
+      },
+      {
+         "name":"Tennis Complex",
+         "latitude":40.28464,
+         "longitude":-74.00670
+      }
+   ]
+}
